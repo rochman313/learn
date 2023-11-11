@@ -1,0 +1,6 @@
+rencana konten learn
+
+- belajar javascript
+- belajar html
+- belajar css
+- belajar framework
