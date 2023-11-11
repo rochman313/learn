@@ -3,7 +3,9 @@ rencana konten learn
 - belajar javascript
   *ES7
   *framework javascript
+  ^ Vue
 - membuat website portfolio
 - belajar html
 - belajar css
 - belajar framework
+- belajar php
