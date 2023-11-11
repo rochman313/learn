@@ -10,3 +10,5 @@ rencana konten learn
 - belajar css
 - belajar framework
 - belajar php
+  * code ignither
+  * laravel
