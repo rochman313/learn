@@ -1,0 +1,8 @@
+rencana konten learn
+
+- belajar javascript
+  *ES7
+  *framework javascript
+- belajar html
+- belajar css
+- belajar framework
