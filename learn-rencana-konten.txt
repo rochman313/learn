@@ -3,7 +3,9 @@ rencana konten learn
 - belajar javascript
   *ES7
   *framework javascript
-- membuat website portfolio
+  ^ angular
+  ^ react
 - belajar html
 - belajar css
 - belajar framework
+  ^ boostrap
